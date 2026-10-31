@@ -14,10 +14,8 @@ Descárgalo desde [bynbo.com/descargas](https://bynbo.com/descargas) o desde la 
 
 ## Avisos al instalar
 
-El programa aún no lleva la firma de pago de Microsoft y Apple, así que el sistema puede avisar:
-
-- **Windows:** «Windows protegió su PC». Pulsa «Más información» y «Ejecutar de todas formas».
-- **Mac:** arrastra el programa a Aplicaciones y ábrelo la primera vez con clic derecho → Abrir, o desde Ajustes → Privacidad y seguridad.
+- **Windows:** va firmado por Glenlake Soft SL. Mientras la versión sea reciente aún puede salir «Windows protegió su PC»: pulsa «Más información» y «Ejecutar de todas formas».
+- **Mac:** aún no lleva la firma de Apple. Arrastra el programa a Aplicaciones y ábrelo la primera vez con clic derecho → Abrir, o desde Ajustes → Privacidad y seguridad.
 
 ## Componentes de terceros
 
